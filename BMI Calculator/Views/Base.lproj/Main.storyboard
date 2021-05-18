@@ -107,6 +107,10 @@
                             <constraint firstAttribute="trailingMargin" secondItem="uRR-x4-SXV" secondAttribute="trailing" id="yaj-fc-3xy"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="heightLabel" destination="cWK-BH-rT3" id="eEN-hT-M5O"/>
+                        <outlet property="weightLabel" destination="okq-iN-Gc5" id="Ukz-Cv-Qgm"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
