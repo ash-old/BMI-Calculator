@@ -188,6 +188,7 @@
                     </view>
                     <connections>
                         <outlet property="adviceLabel" destination="TLj-EG-Ssg" id="mZR-Ol-MeV"/>
+                        <outlet property="background" destination="DPl-gf-IZG" id="I2j-eQ-BO4"/>
                         <outlet property="bmiLabel" destination="Js7-sD-Job" id="IQj-2S-DIk"/>
                     </connections>
                 </viewController>
