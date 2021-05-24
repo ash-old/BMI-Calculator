@@ -19,6 +19,8 @@ class CalculateViewController: UIViewController {
   
   override func viewDidLoad() {
         super.viewDidLoad()
+    heightSlider.value = 1.5
+    weightSlider.value = 100
         // Do any additional setup after loading the view.
     }
 
