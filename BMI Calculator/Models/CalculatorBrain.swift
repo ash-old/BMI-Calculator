@@ -20,7 +20,7 @@ struct CalculatorBrain {
     } else if bmiValue < 24.9 {
       bmi = BMI(value: bmiValue, advice: "Fit as a fiddle", color: .green)
     } else {
-      bmi = BMI(value: bmiValue, advice: "Stop eating!", color: #colorLiteral(red: 0.5725490451, green: 0, blue: 0.2313725501, alpha: 1))
+      bmi = BMI(value: bmiValue, advice: "Stop eating!", color: #colorLiteral(red: 1, green: 0.1491314173, blue: 0, alpha: 1))
     }
   }
   
