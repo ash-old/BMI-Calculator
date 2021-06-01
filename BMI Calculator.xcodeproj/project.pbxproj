@@ -59,6 +59,7 @@
 		5ECF6412261BB50A00F0A080 = {
 			isa = PBXGroup;
 			children = (
+				5E9C04552666D830002AB7A9 /* images */,
 				5ECF641D261BB50A00F0A080 /* BMI Calculator */,
 				5ECF641C261BB50A00F0A080 /* Products */,
 			);
@@ -75,7 +76,6 @@
 		5ECF641D261BB50A00F0A080 /* BMI Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				5E9C04552666D830002AB7A9 /* images */,
 				5ECF641E261BB50A00F0A080 /* AppDelegate.swift */,
 				5ECF6420261BB50A00F0A080 /* SceneDelegate.swift */,
 				5ECF6433261BB52C00F0A080 /* Models */,
