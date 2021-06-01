@@ -16,7 +16,7 @@ User receives BMI value with a background colour change depending on result.
 
 ### UI Design
 
-![](images/Main calculate screen.png)
+![](images/Main.png)
 
-![](images/Results screen.png)
+![](images/Results.png)
 
